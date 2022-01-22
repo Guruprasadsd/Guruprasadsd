@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guruprasadsd
 - 👀 I’m interested in programming with C,C++,Java, Python coding
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Database and management
+- 🌱 I’m currently learning Machine Learning and Cloud Platforms as GCP,AWS
+- 💞️ I’m looking to collaborate on Datascience and AI
 - 📫 How to reach me on My LinkedIn - https://www.linkedin.com/in/guruprasad-shalivan-353205154
 
 <!---
